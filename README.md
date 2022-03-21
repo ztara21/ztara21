@@ -34,11 +34,7 @@ I'm an apprentice web-developper.
 ```mermaid
   graph TD;
       Code-->School;
-      School-->Code;
-      Code-->Eat;
-      Eat-->Code;
-      Code-->Sleep;
-      Sleep-->Eat;
+      School-->Eat;
       Eat-->Sleep;
       Sleep-->Code;
 ```
