@@ -34,3 +34,5 @@ I'm an apprentice web-developper.
 ### ⭐ Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztara21&show_icons=true&theme=vue-dark)
+<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztara21&layout=compact&theme=vue-dark)
