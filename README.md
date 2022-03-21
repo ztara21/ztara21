@@ -31,6 +31,6 @@ I'm an apprentice web-developper.
 
 <br><br>
 
-### Stats
+### ⭐ Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztara21&show_icons=true&theme=vue-dark)
