@@ -1,11 +1,16 @@
 ### Connect with me:
 
-[![web-icon-light](https://i.ibb.co/zSPDJBp/web-black.png = 64x)](https://ztara21.github.io/portfolio#gh-light-mode-only)
-
-[![web-icon-dark](https://i.ibb.co/NFzQx2z/web-white.png = 64x)](https://ztara21.github.io/portfolio#gh-dark-mode-only)
-
-[![linkedin-icon-light](https://i.ibb.co/5LqjZJ6/linkedin-white.png = 64x)](www.linkedin.com/in/ztara21#gh-light-mode-only)
-
-[![linkedin-icon-dark](https://i.ibb.co/bzZ80Vb/linkedin-black.png = 64x)](www.linkedin.com/in/ztara21#gh-dark-mode-only)
-
-
+[![img_contact](./img/globe-light.svg)](https://mikecodeur.com#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](https://mikecodeur.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/youtube-light.svg)](https://go.mikecodeur.com/youtube#gh-light-mode-only)
+[![img_contact](./img/youtube-dark.svg)](https://go.mikecodeur.com/youtube#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/twitter-light.svg)](https://twitter.com/mikecodeur#gh-light-mode-only)
+[![img_contact](./img/twitter-dark.svg)](https://twitter.com/mikecodeur#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/company/mike-codeur/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/company/mike-codeur/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![img_contact](./img/instagram-light.svg)](https://instagram.com/mikecodeur#gh-light-mode-only)
+[![img_contact](./img/instagram-dark.svg)](https://instagram.com/mikecodeur#gh-dark-mode-only)
