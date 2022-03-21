@@ -28,15 +28,3 @@ I'm an apprentice web-developper.
 <img align="left" alt="Vue.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
-
-<br><br>
-
-### Daily routine 
-
-```mermaid
-  graph TD;
-      Code-->School;
-      School-->Eat;
-      Eat-->Sleep;
-      Sleep-->Code;
-```
