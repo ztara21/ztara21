@@ -38,5 +38,7 @@ I'm an apprentice web-developper.
       Code-->Eat;
       Eat-->Code;
       Code-->Sleep;
+      Sleep-->Eat;
+      Eat-->Sleep;
       Sleep-->Code;
 ```
