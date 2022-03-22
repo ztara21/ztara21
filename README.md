@@ -43,5 +43,5 @@ I'm an apprentice web-developper.
 ### 💎 Current repository
 
 <a href="https://github.com/ztara21/portfolio-proj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ztara21&repo=portfolio-proj&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ztara21&repo=website-src&theme=vue-dark" />
 </a>
