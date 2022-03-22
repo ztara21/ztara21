@@ -33,9 +33,7 @@ I'm an apprentice web-developper.
 
 ### ⭐ Github Stats
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztara21#gh-dark-mode-only&show_icons=true&theme=vue-dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztara21#gh-light-mode-only&show_icons=true&theme=vue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztara21&show_icons=true&theme=vue-dark)
 
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztara21#gh-dark-mode-only&layout=compact&theme=vue-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztara21#gh-light-mode-only&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztara21&layout=compact&theme=vue-dark)
