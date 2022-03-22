@@ -32,7 +32,10 @@ I'm an apprentice web-developper.
 <br><br>
 
 ### ⭐ Github Stats
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztara21&show_icons=true&theme=vue-dark#gh-dark-mode-only)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztara21&show_icons=true&theme=vue#gh-light-mode-only)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztara21&show_icons=true&theme=vue-dark)
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztara21&layout=compact&theme=vue-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztara21&layout=compact&theme=vue-dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztara21&layout=compact&theme=vue#gh-light-mode-only)
