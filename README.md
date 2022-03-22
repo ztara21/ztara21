@@ -3,13 +3,13 @@
 Hi, i'm Zakaria from france.
 I'm an apprentice web-developper.
 
-### Actually
+### ⌚️ Actually
 
 <li>🌱 I’m currently learning Vue.js Framework</li>
 
 <li>📫 Contact me by mail or with Twitter.</li>
 
-### Connect with me:
+### ☎️ Connect with me:
 
 [![img_contact](./img/globe-light.svg)](https://ztara21.github.io/portfolio#gh-light-mode-only)
 [![img_contact](./img/globe-dark.svg)](https://ztara21.github.io/portfolio#gh-dark-mode-only)
@@ -20,7 +20,7 @@ I'm an apprentice web-developper.
 [![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/ztara21/#gh-light-mode-only)
 [![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ztara21/#gh-dark-mode-only)
 
-### Languages and frameworks
+### ⚙️ Languages and frameworks
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -38,3 +38,9 @@ I'm an apprentice web-developper.
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztara21&layout=compact&theme=vue-dark)
+
+### 💎 Current repository
+
+<a href="https://github.com/ztara21/portfolio-proj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ztara21&repo=portfolio-proj&theme=vue-dark" />
+</a>
