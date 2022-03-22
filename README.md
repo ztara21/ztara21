@@ -11,8 +11,8 @@ I'm an apprentice web-developper.
 
 ### ☎️ Connect with me:
 
-[![img_contact](./img/globe-light.svg)](https://ztara21.github.io/portfolio#gh-light-mode-only)
-[![img_contact](./img/globe-dark.svg)](https://ztara21.github.io/portfolio#gh-dark-mode-only)
+[![img_contact](./img/globe-light.svg)](https://ztara.vercel.app/#gh-light-mode-only)
+[![img_contact](./img/globe-dark.svg)](https://ztara.vercel.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![img_contact](./img/twitter-light.svg)](https://twitter.com/ztara_21#gh-light-mode-only)
 [![img_contact](./img/twitter-dark.svg)](https://twitter.com/ztara_21#gh-dark-mode-only)
