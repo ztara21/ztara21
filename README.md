@@ -29,11 +29,11 @@ I'm an apprentice web-developper.
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" />
 
-<br><br>
+<br>
 
 ### ⭐ Github Stats
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ztara21&show_icons=true&theme=vue-dark)
 
-<br><br>
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztara21&layout=compact&theme=vue-dark)
