@@ -38,9 +38,3 @@ I'm an apprentice web-developper.
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ztara21&layout=compact&theme=vue-dark)
-
-### 💎 Current repository
-
-<a href="https://github.com/ztara21/portfolio-proj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ztara21&repo=website-src&theme=vue-dark" />
-</a>
